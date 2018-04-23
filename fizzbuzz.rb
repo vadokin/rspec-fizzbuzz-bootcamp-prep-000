@@ -1,5 +1,5 @@
 def fizzbuzz(int)
-  if condition
+  if int % 3 == 0
     
   end
 end
