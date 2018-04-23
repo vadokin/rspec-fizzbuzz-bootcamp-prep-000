@@ -1,3 +1,3 @@
 def fizzbazz
-  
+
 end
